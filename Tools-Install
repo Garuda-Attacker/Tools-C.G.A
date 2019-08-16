@@ -6,4 +6,7 @@ pkg install python
 pkg install git
 
 # Go To
+
+cd Tools-Install
+ls
 python tools.py
